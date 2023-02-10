@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javacript, SaaS, Crypto.
 - 🌱 I’m currently learning Go and Rust.
 - 💞️ I’m looking to collaborate on Crypto
-- 📫 How to reach me whatsapp, discord jorgemadson#2525
+- 📫 How to reach me by email and discord jorgemadson#2525
 
 <!---
 JorgeMadson/JorgeMadson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
