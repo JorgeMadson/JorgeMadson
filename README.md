@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorgeMadson
 - 👀 I’m interested in Javacript and Python.
-- 🌱 I’m currently learning Go and Rust.
+- 🌱 I’m currently learning Go and Ruby.
 - 💞️ I’m looking to collaborate on Finance Systems
 - 📫 How to reach me by email and discord jorgemadson#2525
 
