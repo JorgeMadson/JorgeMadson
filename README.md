@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JorgeMadson
-- 👀 I’m interested in Javacript and PHP.
+- 👀 I’m interested in Javacript and some other languages.
 - 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on Finance Systems and B2B.
 - 📫 How to reach me by email and discord jorgemadson#2525
